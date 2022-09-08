@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  *  main - Entry point
- Descrption: print a qoute
+*   Descrption: prints a qoute to output
  *  Return: Always 0 (Success)
  */
 int main(void)
