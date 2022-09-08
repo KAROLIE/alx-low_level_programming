@@ -1,7 +1,7 @@
 # include <stdio.h>
 /**
  *  main -entry point
- *  Description :should print "Programming is like building a multilingual puzzle"
+ *  Description: prints some sentence qoute
  *  must return - 0 (success)
  */
 int main(void)
