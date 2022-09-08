@@ -2,7 +2,7 @@
 /**
  *  main -entry point
  *
- *  must return 0
+ *  must return 0 (success)
  *
  */
 int main(void)
